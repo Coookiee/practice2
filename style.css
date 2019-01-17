@@ -1,0 +1,10 @@
+body{
+    margin:0;
+}
+body.black{
+    background-color: black;
+    color:white;
+}
+body>#info{
+    margin-bottom: 5rem;
+}
